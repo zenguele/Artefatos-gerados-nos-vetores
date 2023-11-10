@@ -1,0 +1,6 @@
+O Github não permite upload de arquivos de mais de 25MB.
+
+
+SEGUE O LINK PARA DOWNLOAD DO DATASET:
+
+https://zenodo.org/records/1188976#.XrC7a5NKjOR
